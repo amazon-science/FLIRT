@@ -13,8 +13,8 @@ python FLIRT.py --flirt_iters 1000 --attack_strategy Scoring_greedy
 
 ## License
 
-![alt text] (https://licensebuttons.net/l/by-nc/4.0/88x31.png)
-The code and dataset are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License] (https://creativecommons.org/licenses/by-nc/4.0/).
+![alt text](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
+The code and dataset are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 please note that The stable-diffusion-v1-4 model used in the code (and hence downloaded on your machine) is under the CreativeML open RAIL-M license. 
 
