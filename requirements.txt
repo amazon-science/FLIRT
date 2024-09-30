@@ -1,5 +1,5 @@
 transformers==4.25.1
-torch==1.13.1
+torch==2.2.0
 clip==1.0
 diffusers==0.11.1
 NudeNet==2.0.9
