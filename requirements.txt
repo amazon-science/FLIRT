@@ -1,4 +1,4 @@
-transformers==4.25.1
+transformers==4.38.0
 torch==1.13.1
 clip==1.0
 diffusers==0.11.1
